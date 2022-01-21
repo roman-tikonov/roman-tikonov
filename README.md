@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Check out my blog about Android development: https://roman-tikonov.medium.com/
+
 <!--
 **roman-tikonov/roman-tikonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
